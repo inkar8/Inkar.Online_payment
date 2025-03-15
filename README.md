@@ -1,5 +1,6 @@
 Online Payment Gateway
-Overview
+
+Overview:
 This project is an **Online Payment Gateway** system that supports multiple payment methods, including **Credit Card, PayPal, and Cryptocurrency**. It follows key software design patterns such as **Factory Method** and **Adapter** to ensure flexibility and scalability.
 
 System Architecture:
@@ -22,9 +23,9 @@ System Architecture:
 - PaymentDemo: Provides a command-line interface for users to select payment methods and process transactions.
 - Main: Entry point for the program.
 
-Features
-✅ Supports three payment methods (Credit Card, PayPal, Crypto)  
-✅ Factory Pattern ensures flexibility in adding new payment methods  
-✅ Adapter Pattern for integrating external payment APIs  
-✅ Transaction logging with status tracking  
-✅ Error handling for invalid transactions  
+Features:
+Supports three payment methods (Credit Card, PayPal, Crypto)  
+Factory Pattern ensures flexibility in adding new payment methods  
+Adapter Pattern for integrating external payment APIs  
+Transaction logging with status tracking  
+Error handling for invalid transactions  
